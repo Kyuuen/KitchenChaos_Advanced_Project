@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60546b491ad5c3c47a227d746942ba38, type: 3}
+  m_Name: CheeseContainer
+  m_EditorClassIdentifier: 
+  counterSO: {fileID: 11400000, guid: 2870662c9ce736149bcf7a102f94d322, type: 2}
+  price: 50
+  item: 2
+  counterPrefab: {fileID: 6117250585044937363, guid: 7a4bbe9b2bbb19d4d9a650898a3f0852,
+    type: 3}

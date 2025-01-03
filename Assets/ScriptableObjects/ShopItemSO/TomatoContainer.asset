@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60546b491ad5c3c47a227d746942ba38, type: 3}
+  m_Name: TomatoContainer
+  m_EditorClassIdentifier: 
+  counterSO: {fileID: 11400000, guid: aa179875bb22e0049ad32f896d3e716e, type: 2}
+  price: 50
+  item: 4
+  counterPrefab: {fileID: 9184725721180346998, guid: 2a1e096e3de9cb9479f95e70278bb6e9,
+    type: 3}
